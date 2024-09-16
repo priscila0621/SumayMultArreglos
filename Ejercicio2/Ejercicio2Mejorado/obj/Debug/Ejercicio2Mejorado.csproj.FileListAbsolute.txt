@@ -1,0 +1,10 @@
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\bin\Debug\Ejercicio2Mejorado.exe.config
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\bin\Debug\Ejercicio2Mejorado.exe
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\bin\Debug\Ejercicio2Mejorado.pdb
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\obj\Debug\Ejercicio2Mejorado.csproj.AssemblyReference.cache
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\obj\Debug\Ejercicio2Mejorado.Form1.resources
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\obj\Debug\Ejercicio2Mejorado.Properties.Resources.resources
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\obj\Debug\Ejercicio2Mejorado.csproj.GenerateResource.cache
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\obj\Debug\Ejercicio2Mejorado.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\obj\Debug\Ejercicio2Mejorado.exe
+C:\Users\DELL E7250\Documents\Arreglos16-09\Ejercicio2\Ejercicio2Mejorado\obj\Debug\Ejercicio2Mejorado.pdb
