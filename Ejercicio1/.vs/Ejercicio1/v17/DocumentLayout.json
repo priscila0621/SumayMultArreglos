@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL E7250\\Documents\\Arreglos16-09\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5A069-3399-4C24-880A-AF970A62997E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell e7250\\documents\\arreglos16-09\\ejercicio1\\ejercicio1\\models\\dicesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B5A069-3399-4C24-880A-AF970A62997E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\dicesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5A069-3399-4C24-880A-AF970A62997E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell e7250\\documents\\arreglos16-09\\ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B5A069-3399-4C24-880A-AF970A62997E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5A069-3399-4C24-880A-AF970A62997E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell e7250\\documents\\arreglos16-09\\ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40B5A069-3399-4C24-880A-AF970A62997E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiceSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\Arreglos16-09\\Ejercicio1\\Ejercicio1\\Models\\DiceSimulation.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Models\\DiceSimulation.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\Arreglos16-09\\Ejercicio1\\Ejercicio1\\Models\\DiceSimulation.cs",
+              "RelativeToolTip": "Ejercicio1\\Models\\DiceSimulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:13:20.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\Arreglos16-09\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\Arreglos16-09\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:53:21.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\Arreglos16-09\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\Arreglos16-09\\Ejercicio1\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:36:16.473Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
